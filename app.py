@@ -1,7 +1,7 @@
 import streamlit as st
 from predict import predecir
 
-st.title("🔮 Predicción de Churn - Telco Customer")
+st.title("Predicción de Churn - Telco Customer")
 st.write("Complete los datos del cliente para predecir la probabilidad de abandono.")
 
 # ===========================
